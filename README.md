@@ -2,12 +2,12 @@
 👋 Hi there, I'm Liza and Welcome to my GitHub!
 
   👩‍💻 **About Me:**
-- 🌍 I'm a Computer Engineering Junior @ UC Davis
+- 🌍 Computer Engineering Junior @ UC Davis
 - 🚀 Passionate about front-end development & machine learning
 - 💻 Currently learning the MERN stack
 - 🌟 Leadership enthusiast with a certificate from UC Davis CLL
 - 🎤 Public speaker since age 6, aspiring TED speaker
-- My diverse background spans India, UAE, and the USA, providing me with a unique global perspective and the ability to connect with people from various cultures.
+- 🌎 diverse background spanning India, UAE, and the USA, providing me with a unique global perspective and the ability to connect with people from various cultures.
 
 
 👾 **Tech Stack:**
