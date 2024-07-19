@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there, I'm Liza!
 
-<!--
-**lizatinku/lizatinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **About Me:**
+- 🌍 Computer Engineering Junior @ UC Davis
+- 🚀 Passionate about front-end development & machine learning
+- 💻 Currently learning the MERN stack
+- 🌟 Leadership enthusiast with a certificate from UC Davis CLL
+- 🎤 Public speaker since age 6, aspiring TED speaker
 
-Here are some ideas to get you started:
+👾 **Skills:**
+- 💻 Python, C, C++, Swift, MATLAB
+- 🛠️ React, Node.js, Express, MongoDB
+- 🔍 TensorFlow, Keras, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
