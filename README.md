@@ -7,6 +7,6 @@
 - 🎤 Public speaker since age 6, aspiring TED speaker
 
 👾 **Skills:**
-- 💻 Python, C, C++, Swift, MATLAB
+- 💻 Python, C, C++, Swift, MATLAB, HTML/CSS, JavaScript
 - 🛠️ React, Node.js, Express, MongoDB
-- 🔍 TensorFlow, Keras, Scikit-learn
+- 🔍 TensorFlow, Keras, Scikit-learn, PyTorch, Pandas, NumPy,
