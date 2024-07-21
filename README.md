@@ -14,3 +14,6 @@
 - 💻 Python, C, C++, Swift, HTML/CSS, JavaScript
 - 🛠️ React, Node.js, Express, MongoDB
 - 🔍 TensorFlow, Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib
+
+
+Feel free to shoot me an email at lizatj2017@gmail.com to collaborate on a project :)
