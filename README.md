@@ -1,4 +1,3 @@
-
 👋 Hi there, I'm Liza and Welcome to my GitHub!
 
   👩‍💻 **About Me:**
@@ -11,9 +10,10 @@
 
 
 👾 **Tech Stack:**
-- 💻 Python, C, C++, Swift, HTML/CSS, JavaScript
-- 🛠️ React, Node.js, Express, MongoDB
-- 🔍 TensorFlow, Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib
+- 💻 Programming Languages: Python, C, C++, Swift, HTML/CSS, JavaScript
+- 🛠️ Tools and Frameworks: MongoDB, Express.js, React.js, Node.js
+- 🔍 Machine Learning & Data Analysis: TensorFlow, PyTorch, NumPy, Pandas
 
 
-Feel free to conenct with me to collaborate on a project :)
+
+Feel free to connect with me to collaborate on a project :)
