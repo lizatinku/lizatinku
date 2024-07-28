@@ -16,4 +16,4 @@
 - 🔍 TensorFlow, Scikit-learn, PyTorch, Pandas, NumPy, Matplotlib
 
 
-Feel free to shoot me an email at lizatj2017@gmail.com to collaborate on a project :)
+Feel free to conenct with me to collaborate on a project :)
