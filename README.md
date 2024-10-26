@@ -10,13 +10,13 @@
 
 👾 **Tech Stack:**
 - 💻 Programming Languages: Python, C, C++, Swift, HTML/CSS, JavaScript, Typescript
-- 🛠️ Tools and Frameworks: MongoDB, Express.js, React.js, Node.js, Next.js
-- 🔍 Machine Learning & Data Analysis: TensorFlow, PyTorch, NumPy, Pandas
+- 🛠️ Tools and Frameworks: Express.js, React.js, Node.js, Next.js, Tailwind CSS
+- 🔍 Machine Learning & Data Analysis: TensorFlow, PyTorch, NumPy, Pandas, SciKit-Learn
 
 
 Currently Working On:
-- Expense Tracker: a tool to simplify financial management for college students with features like add/delete expenses, sort expenses. I also fetched an API for real-time stock data integration. I am planning on integrating OpenAI's API.
-- Indian Food Trivia: a quiz on Indian Food built usign Next.js for API routes, Typescript for frontend and styled using Tailwind CSS. 
+- Expense Tracker: a tool to simplify financial management for college students with features like add/delete expenses, sort expenses. I also fetched an API for real-time stock data integration. 
+- Indian Food Trivia: a quiz on Indian Food built usign Next.js backend, Typescript for frontend, Tailwind CSS for styling. 
 
 
 Feel free to connect with me to collaborate on a project :)
