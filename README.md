@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Liza! Welcome to my GitHub!
 
 ## 👩‍💻 About Me:
-- 🌍 **Computer Engineering Junior** @ UC Davis
-- 🚀 Passionate about Full-Stack Development** & Machine Learning**
-- 🌟 Leadership enthusiast with a Certificate in Leadership from UC Davis CLL
-- 🎤 Public speaker since age 6, aspiring TED Speaker
+- 🌍 **Computer Engineering Junior** @ UC Davis.
+- 🚀 Passionate about Full-Stack Development & Machine Learning.
+- 🌟 Leadership enthusiast with a Certificate in Leadership from UC Davis CLL.
+- 🎤 Public speaker since age 6, aspiring TED Speaker.
 - 🌎 Diverse background spanning **India**, UAE, and the USA, giving me a unique global perspective and the ability to connect across cultures.
 
 ---
@@ -37,15 +37,15 @@
 ---
 
 ## 📊 My GitHub Stats
-
-![Liza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizatinku&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizatinku&layout=compact&theme=radical)
+
+![Liza's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lizatinku&theme=radical)
 
 
 ## 📬 **Let's Connect!**
 Feel free to collaborate on a project or discuss ideas. 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lizartinkujose)
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Liza%20Tinku%20Jose-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lizatinkujose)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/lizatinku) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://lizatinkuportfolio.vercel.app/)
 
 Thank you for visiting my GitHub! 🌟
 ```
