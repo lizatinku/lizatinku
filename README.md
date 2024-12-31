@@ -45,7 +45,7 @@
 ## 📬 **Let's Connect!**
 Feel free to collaborate on a project or discuss ideas. 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Liza%20Tinku%20Jose-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lizatinkujose)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/lizatinku) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://lizatinkuportfolio.vercel.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lizatinkujose)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/lizatinku) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://lizatinkuportfolio.vercel.app/)
 
 Thank you for visiting my GitHub! 🌟
 ```
