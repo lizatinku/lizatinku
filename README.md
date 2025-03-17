@@ -39,8 +39,6 @@
 ## 📊 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizatinku&layout=compact&theme=radical)
 
-![Liza's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lizatinku&theme=radical)
-
 
 ## 📬 **Let's Connect!**
 Feel free to collaborate on a project or discuss ideas. 
